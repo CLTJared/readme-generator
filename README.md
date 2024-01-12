@@ -23,7 +23,6 @@ npm i
 ```
 
 ## Usage
-
 Run the following command from the root folder of the project.
 ```bash
 node index.js
