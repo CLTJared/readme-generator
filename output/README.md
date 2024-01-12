@@ -1,7 +1,7 @@
-# Readme Generator
+# README Generator
 
   # Description
-  Creates a README file from a set of questions.
+  Makes a readme file based off input from command line
   
   # Table of Contents
   * [Installation](#installation)
@@ -12,7 +12,7 @@
   * [Questions](#questions)
   
   # Installation
-  git clone git@github.com:CLTJared/readme-generator.git
+  git clone <ssh-link>
 
   ## Usage
   node index.js
@@ -21,12 +21,12 @@
   License created under [MIT](https://choosealicense.com/licenses/mit). See for more details.
   
   # Contributors
-  
+  N/A
   
   # Test
-  Validating
+  Ran it a few times.
   
   # Questions
-  undefined
+  Message me on github or send an email.
   * GitHub: cltjared
   * eMail: jared@jaredclt.com
