@@ -74,8 +74,8 @@ function generateMarkdown(data) {
   ${data.test}
   
   # Questions
-  ${data.contact}
-  * GitHub: ${data.ghUser}
+  Please reach out via email if you have any questions.
+  * GitHub: https://www.github.com/${data.ghUser}
   * eMail: ${data.email}
 `;
 }

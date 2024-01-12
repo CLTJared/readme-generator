@@ -84,14 +84,6 @@ const questions = [
         validate: function (test) {
             if(test.length < 1) { return 'Must be a valid test case.'; } return true;
         }
-    },  
-    {
-        type: 'input',
-        message: 'How should readers contact you?',
-        name: 'contact',
-        validate: function (test) {
-            if(test.length < 1) { return 'Must be a valid input.'; } return true;
-        }
     }
 ]
 
