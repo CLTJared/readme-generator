@@ -1,7 +1,7 @@
 # README Generator
 
   # Description
-  Makes a readme file based off input from command line
+  Creates a readme file based off input from user in command line.
   
   # Table of Contents
   * [Installation](#installation)
@@ -12,10 +12,10 @@
   * [Questions](#questions)
   
   # Installation
-  git clone <ssh-link>
+  git clone
 
   ## Usage
-  node index.js
+  node index.js from the command line
 
   # License
   License created under [MIT](https://choosealicense.com/licenses/mit). See for more details.
@@ -24,9 +24,9 @@
   N/A
   
   # Test
-  Ran it a few times.
+  Validated by running command a few times to verify output.
   
   # Questions
-  Message me on github or send an email.
-  * GitHub: cltjared
+  Please reach out via email if you have any questions.
+  * GitHub: https://www.github.com/CLTJared
   * eMail: jared@jaredclt.com
