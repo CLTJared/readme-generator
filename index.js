@@ -82,7 +82,7 @@ const questions = [
         message: 'What were your test cases?',
         name: 'test',
         validate: function (test) {
-            if(test.length < 1) { return 'Must be a valid test case.'; } return true;
+            if(test.length < 1) { return 'Must be a valid input.'; } return true;
         }
     }
 ]
@@ -91,6 +91,7 @@ function init() {
     inq.prompt(questions).then((response) => {
         const goodData = mark.generateMarkdown(response);
         writeToFile(`./output/README.md`, goodData);
+        console.log("Successfully created your README file in the output folder.");
     })
 }
 
